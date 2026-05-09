@@ -1,0 +1,12 @@
+# Ignore datasets
+*.csv
+!survey_results_public.csv
+!survey_results_schema.csv
+!India_25k.csv
+
+# Optional (recommended for Data Science)
+*.xlsx
+*.zip
+*.ipynb_checkpoints/
+__pycache__/
+venv/
