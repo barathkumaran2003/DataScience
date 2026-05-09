@@ -3,6 +3,9 @@
 !survey_results_public.csv
 !survey_results_schema.csv
 !India_25k.csv
+!Sales.csv
+!00_BUILDING CONCEPTUAL MODEL.csv
+!FactBudget.csv
 
 # Optional (recommended for Data Science)
 *.xlsx
